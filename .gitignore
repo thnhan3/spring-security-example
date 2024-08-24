@@ -5,5 +5,4 @@ target/
 .rest
 config.txt
 HELP.md
-main
 /src/main/resources/application.properties
