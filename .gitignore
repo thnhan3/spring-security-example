@@ -1,0 +1,9 @@
+# build folder
+target/
+.vscode/
+.idea/
+.rest
+config.txt
+HELP.md
+main
+/src/main/resources/application.properties
